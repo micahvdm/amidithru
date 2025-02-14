@@ -16,7 +16,7 @@
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 #
 
-PREFIX?=/usr/local
+PREFIX?=/usr
 INSTALL?=install
 INSTALL_PROGRAM?=$(INSTALL) -s
 
